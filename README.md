@@ -63,6 +63,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+<h3>Learned & Used</h3>⚡📚
+<ul>
+    <li>React component creatin</li>
+    <li>multiple props passing</li>
+    <li>Conditional rendering</li>
+    <li>Code optimizing</li>
+    <li>Array data handling</li>
+  </ul>
+<h2>And my output will be with responsivnes</h2>
+<img src="react-price.jpeg" alt="result1" height="300" width="550">
+<img src="react-mobile" alt="result2" height="300" width="550">
+
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
