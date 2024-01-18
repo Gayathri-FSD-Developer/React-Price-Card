@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
   </ul>
 <h2>And my output will be with responsivnes</h2>
 <img src="react-price.jpeg" alt="result1" height="300" width="550">
-<img src="react-mobile" alt="result2" height="300" width="550">
+<img src="react-mobile.jpeg" alt="result2" height="300" width="550">
 
 
 
