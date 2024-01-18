@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+/* Css for bootstrap card */
+.container{
+  background: linear-gradient( to right, rgb(64, 64, 201),rgb(65, 124, 212),rgb(87, 132, 196)) ;
+}
+.card-header{
+  text-align: center;
+}
+/* .button{
+  text-align: center;
+} */
+a{
+  border-radius: 29px !important;
+  width: 80vw !important;
+}
+.opacity{
+  opacity: 0.5;
+}
